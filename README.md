@@ -3,3 +3,5 @@
 Bachelor thesis project. 
 
 CROHME dataset used: https://mega.nz/#!EgFHGSxT
+Detector: https://mega.nz/#
+
