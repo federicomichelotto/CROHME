@@ -3,7 +3,7 @@
 Bachelor thesis project (Advisor: prof. Nanni Loris).
 
 CROHME dataset used: https://mega.nz/#!EgFHGSxT  
-Detector: https://mega.nz/#!x5VClAja
+Detector: https://mega.nz/#!EgNgxArQ
 
 How to use:
 - download the CROHME dataset
