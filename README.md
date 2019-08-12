@@ -2,7 +2,7 @@
 
 Bachelor thesis project (Advisor: prof. Nanni Loris).
 
-CROHME competion: https://www.cs.rit.edu/~crohme2019/
+CROHME competion: https://www.cs.rit.edu/~crohme2019/  
 CROHME dataset used: https://mega.nz/#!EgFHGSxT!6pCv6zrRMBjOSYPXrDFysnLayw-H9XQGsJF9lanb4Bw  
 Detector: https://mega.nz/#!EgNgxArQ!KeVscRcgRahIn7jd1TTkIRG7k3DFEstz62k5UcJUmz4
 
