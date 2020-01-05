@@ -12,4 +12,4 @@ How to use:
 - download the detector and put the "detection" folder in the same path of the "crohme" folder.
 - execute the matlab script "solve.m" to run the system, the result ("res" variable) will be displayed at the end of the process in the command window, togheter with the intermediate and final image of the process.
 
-To see some example look at https://github.com/federicomichelotto/CROHME/blob/master/presentation.pdf
+To see some examples look at https://github.com/federicomichelotto/CROHME/blob/master/presentation.pdf
